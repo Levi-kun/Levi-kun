@@ -1,4 +1,5 @@
 ## Hi there 👋
+Just focusing on making cool fun things
 
 <!--
 **Levi-kun/Levi-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
