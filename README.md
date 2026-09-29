@@ -1,5 +1,5 @@
 ## Hi there 👋
-Just focusing on making cool fun things... realistically, I lose motivation them before they get cool.
+Just focusing on making cool fun things... yet, I lose motivation them before they get cool.
 <!--
 **Levi-kun/Levi-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
